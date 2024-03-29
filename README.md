@@ -8,8 +8,8 @@ This research holds promise for enhancing diagnostic accuracy, facilitating time
 
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+
+The project endeavors to create a robust machine learning model to address the pressing need for early detection and classification of mental disorders, encompassing Bipolar Disorder Type 1, Bipolar Disorder Type 2, and Depression. By integrating a wide array of data sources and identifying crucial features and patterns, the aim is to develop a sophisticated predictive framework. This framework will enable timely intervention, improve diagnostic accuracy, and ultimately enhance patient outcomes within the realm of mental healthcare.
 
 ## Features
 - Accuracy
